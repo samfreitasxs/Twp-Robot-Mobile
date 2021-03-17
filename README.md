@@ -30,7 +30,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ## :rocket: Technologies
 
-This project was developed at the [QAninja](https://dojo.qaninja.com.br/course/index/49/#_) with the following technologies:
+This project was developed in the course of the  [QAninja](https://dojo.qaninja.com.br/course/index/49/#_) with the following technologies:
  
 - [Robot Framework](https://robotframework.org/#introduction)
 - [Python](https://www.python.org/downloads/)
